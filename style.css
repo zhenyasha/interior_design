@@ -115,6 +115,10 @@ body {
     width: 493px;
 }
 
+.header__bottom {
+    margin-left: 86px;
+}
+
 .button {
     display: inline-block;
     font-weight: 500;
